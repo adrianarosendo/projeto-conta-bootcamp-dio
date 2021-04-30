@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.exe
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.deps.json
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.dll
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\bin\Debug\netcoreapp3.1\DioBank.pdb
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.dll
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.pdb
+C:\Users\AAIO\My Private Documents\EstudosC#\DioBank\obj\Debug\netcoreapp3.1\DioBank.genruntimeconfig.cache
